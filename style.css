@@ -1,0 +1,284 @@
+
+	.top{
+		width:1560px;
+		height:30px;
+		background-color:rgb(244,244,244);
+		border:1px 1px 1px 1px;
+		border-bottom-style:inset;
+		border-color:rgb(236,236,236);
+
+	}
+	.nav{
+		width:1560px;
+		height:160px;
+		background-color:rgb(255,255,255);
+		border:1px 1px 1px 1px;
+		border-bottom-color:rgb(224,3,4);
+		border-bottom-style:inset;
+	}
+	a{
+		text-decoration:none;
+	}
+	.top>a{
+		margin-top:5px;
+		color:rgb(51,51,51);
+		font-size:12px;
+		line-height:20px;
+	}
+	.top img{
+		position:relative;
+		top:3px;
+	}
+	.left{
+		padding-right:15px;
+		float:left;
+	}
+	.right{
+		float:right;
+		padding-left:15px;
+	}
+	#shoucang{
+		padding-left:180px;
+	}
+	#zhuce{
+		padding-right:180px;
+		float:right;
+	}
+	#shuxian{
+		float:right;
+		padding-left:3px;
+		padding-right:3px;
+	}
+	#denglu{
+		float:right;
+	}
+	#logo{
+		padding-top:20px;
+		padding-left:180px;
+	}
+	#sousuolan{
+		color:rgb(198,198,198);
+		border:1px 1px 1px 1px;
+		border-style:solid;
+		border-color:rgb(248,56,56);
+		width:410px;
+		height:40px;
+		font-size:15px;
+		position:absolute;
+		left:570px;
+		top:70px;
+	}
+	#sousuolan:focus{
+		outline:none;
+		border:1px 1px 1px 1px;
+		border-style:solid;
+		border-color:rgb(248,56,56);
+	}
+	#sousuo{
+		width:90px;
+		height:41px;
+		background-color:rgb(248,56,56);
+		font-size:16px;
+		color:rgb(255,255,255);
+		text-align:center;
+		line-height:10px;
+		border:1px 1px 1px 1px;
+		border-style:solid;
+		border-color:rgb(248,56,56);
+		position:absolute;
+		top:70px;
+		left:984px;
+
+	}
+	#gouwu{
+		width:150px;
+		height:40px;
+		background-color:rgb(245,245,245);
+		position:absolute;
+		left:1225px;
+		top:70px;
+	}
+	#market{
+		padding-top: 12px;
+		padding-left:25px;
+		padding-right:8px;
+	}
+	#gw{
+		color:rgb(248,56,56);
+	}
+	#gouwu>p{
+		margin-top:10px;
+		position:absolute;
+		top:0px;
+		left:55px;
+	}
+	#daohanglan>ul>li{
+		display: inline-block;
+		padding-right:18px;
+		padding-left: 18px;
+		padding-top:9px;
+		padding-bottom: 9px;
+		margin-right:30px;
+		font-weight: bold;
+	}
+	#daohanglan>ul>li:hover{
+		background-color:rgb(253,3,4);
+		
+	}
+	#daohanglan>ul>li:hover a{
+		color:rgb(255,255,255);			
+	}
+	#daohanglan{
+		position:absolute;
+		left:180px;
+		top:140px;
+	}
+	#daohanglan>ul>li>a{
+		color:rgb(73,73,73);
+	}
+	.body{
+		width:1560px;
+		height:655px;
+		background-color:rgb(251,251,251);
+	}
+	#body_top_left{
+		background-color:rgb(255,255,255);
+		width:215px;
+		height:45px;
+		position:relative;
+		top:65px;
+		left:180px;
+	}
+	#body_top_left a{
+		color:rgb(125,125,125);
+		position:relative;
+		bottom:2px;
+	}
+	#body_top_left:hover a{
+		color:rgb(255,151,146);
+	}
+	#body_top_left img{
+		margin-left:32px;
+		margin-top: 14px;
+		margin-right:20px;
+	}
+	#body_left{
+		background-color:rgb(255,255,255);
+		width:215px;
+		height:493px;
+		padding-top:16px;
+		position:relative;
+		top:75px;
+		left:180px;
+
+	}
+	#body_left>ul>li{
+		list-style-type:none;
+		padding-bottom:30px;
+		padding-left:15px;
+	}
+	#body_left>ul>li:hover a{
+		color: rgb(255,151,146);
+	}
+	#body_left a{
+		color:rgb(51,51,51);
+	}
+	#body_center{
+		width:975px;
+		height:565px;
+		background-color:rgb(255,255,255);
+		position:absolute;
+		top:268px;
+		left:415px;
+	}
+	.picture{
+		width:220px;
+		height:250px;
+		float:left;
+		border:1px solid;
+		margin-top:20px;
+		margin-left:18px;
+	}
+	#body_center a{
+		text-align:center;
+		color:rgb(170,170,170);
+
+	}
+	.jiage{
+		color:rgb(73,73,73);
+	}
+	
+	#one{
+		padding-top:10px;
+		padding-left:45px;
+	}
+	#two{
+		padding-top:10px;
+		padding-left:40px;
+	}
+	#three{
+		padding-top:10px;
+		padding-left:60px;
+	}
+	#four{
+		padding-top:10px;
+		padding-left:15px;
+	}
+	#five{
+		padding-top:10px;
+		padding-left:45px;
+	}
+	#six{
+		padding-top:10px;
+		padding-left:40px;
+	}
+	#seven{
+		padding-top:10px;
+		padding-left:60px;
+	}
+	#eight{
+		padding-top:10px;
+		padding-left:15px;
+	}
+	.footer{
+		background-color:rgb(46,46,46);
+		width:1560px;
+		height:250px;
+	}
+	.copyright{
+		width:1200px;
+		height:100px;
+		background-color:rgb(46,46,46);
+		border:1px;
+		border-top-style:outset;
+		border-top-color:rgb(69,69,69);
+		position:relative;
+		top:150px;
+		left:180px;
+		color:rgb(158,158,158);
+		text-align:center;
+	}
+	.foot>ul>li{
+		list-style:none;
+	}
+	.foot{
+		float:left;
+		padding-left:145px;
+		line-height:30px;
+	}
+	.footer a{
+		color:rgb(190,190,190);
+	}
+	.st{
+		font-size:18px;
+	}
+	 #p1{
+		position:absolute;
+		top:1px;
+		left:300px;
+	}
+	#p2{
+		position:absolute;
+		top:35px;
+		left:250px;
+	}
